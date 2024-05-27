@@ -1,29 +1,39 @@
-# microject-vuejs
+# Microject Vue.js
 
-This template should help get you started developing with Vue 3 in Vite.
+Este é um projeto frontend desenvolvido em Vue.js para consumir a API de gerenciamento de projetos, clientes e atividades do Microject.
 
-## Recommended IDE Setup
+## Tecnologias Utilizadas
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Vue.js 3
+- Vue Router
+- Axios
+- Bootstrap
+- Vite
 
-## Customize configuration
+## Configuração e Execução do Projeto
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+### Pré-requisitos
 
-## Project Setup
+- Node.js
+- npm (ou yarn)
 
-```sh
-npm install
-```
+### Passos para Execução
 
-### Compile and Hot-Reload for Development
+ **Clone o repositório:**
+   
+   git clone https://github.com/seu-usuario/microject-vuejs.git
+   cd microject-vuejs
 
-```sh
-npm run dev
-```
+  Node instalação: 
+  https://nodejs.org/en/download/package-manager
 
-### Compile and Minify for Production
+  NPM instalação:
+  https://docs.npmjs.com/cli/v10/commands/npm-install
 
-```sh
-npm run build
-```
+  Execução do projeto: 
+
+  npm run dev
+
+  Obs: Algumas funcionalidades não foram possiveis serem feitas a tempo. Exemplo: Tela de visualização projetos com outros status.
+
+  ![image](https://github.com/HuanShan150/microject-vuejs/assets/30788893/52259051-fbad-45cd-a58f-0dce45fd7fe1)
