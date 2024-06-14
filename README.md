@@ -34,6 +34,4 @@ Este é um projeto frontend desenvolvido em Vue.js para consumir a API de gerenc
 
   npm run dev
 
-  Obs: Algumas funcionalidades não foram possiveis serem feitas a tempo. Exemplo: Tela de visualização projetos com outros status.
-
   ![image](https://github.com/HuanShan150/microject-vuejs/assets/30788893/52259051-fbad-45cd-a58f-0dce45fd7fe1)
